@@ -54,3 +54,5 @@
     &nbsp;&nbsp;
     <img width="67%" src="https://github-readme-stats.vercel.app/api?username=pan93412&count_private=true&show_icons=true&bg_color=90,DAFFEF,FCFFFD" alt="GitHub Stats">
 </p>
+
+<small>Inspired from <a href="https://github.com/qier222/qier222">qier222's page</a>.</small>
