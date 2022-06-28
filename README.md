@@ -47,6 +47,16 @@
     <img width="31%" src="components/Card/Contact/E-Mail.svg" alt="E-Mail (pan93412@gmail.com)">
 </p>
 
+## 支持資訊 | Supports
+
+有興趣支持我在 OSS 做出的貢獻嗎？你可以透過以下的方式贊助我：\
+Interested in supporting my contributions in OSS? You can donate to the following platform:
+
+- ETH: `0xEa6387e8F2B756F173563e6F8A70aDF51406DDe9`
+
+非常感謝！\
+Thanks a lot!
+
 ## ![GitHub 統計資訊 | Statistics](components/Header/Stats.svg)
 
 <p>
