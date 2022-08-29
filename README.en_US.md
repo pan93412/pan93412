@@ -1,6 +1,6 @@
 # ![pan93412, a developer, translator and a UI/UX designer from 🇹🇼](components/Header/Main.svg)
 
-[中文](./README.md) | [ENG](./README.en_US.md)
+[中文](./README.md) | [English](./README.en_US.md)
 
 Hi, I am pan93412 😄 You can also call me “pan.” I am a programmer 👨🏻‍💻, localization translator 💬, UI/UX designer 👨🏻‍🎨, and a student 🤓 from Taiwan 🇹🇼. I primarily work on open-source software (OSS) contribution; besides, I often participate OSS community and answer questions in my free time.
 
@@ -27,7 +27,7 @@ Hi, I am pan93412 😄 You can also call me “pan.” I am a programmer 👨�
 
 ## How to support me?
 
-Interested in supporting my contributions to OSS? You can donate to the following platform:
+Interested in supporting my contributions to OSS? You can donate me with the following platforms:
 
 - ETH: `0xEa6387e8F2B756F173563e6F8A70aDF51406DDe9`
 - PayPal and some methods are acceptable. [Welcome to contact me about this!][mail]
