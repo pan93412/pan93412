@@ -4,7 +4,7 @@
 
 Hi, I am pan93412 😄 You can also call me “pan.” I am a programmer 👨🏻‍💻, localization translator 💬, UI/UX designer 👨🏻‍🎨, and a student 🤓 from Taiwan 🇹🇼. I primarily work on open-source software (OSS) contribution; besides, I often participate OSS community and answer questions in my free time.
 
-**Programming**: I code in Rust, TypeScript, Python, and some scripting language (POSI sh, fish, etc.) mainly. I feel myself like an engineer that always works on random stuff 😂. For my popular projects, refer to Pinned Repositories.
+**Programming**: I code in Rust, TypeScript, Python, and some scripting language (POSIX sh, fish, etc.) mainly. I feel myself like an engineer that always works on random stuff 😂. For my popular projects, refer to Pinned Repositories.
 
 **Localization**: I am currently a long-term translator of Git, GNU nano, Weblate, Keka & OBS Studio, and also a member of [@l10n-tw](https://t.me/l10n_tw). I have some experience in the localization field, and you are welcome to feedback & chat there! ✌️
 
