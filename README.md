@@ -1,10 +1,6 @@
 # ![pan93412, a developer, translator and a UI/UX designer from 🇹🇼](components/Header/Main.svg)
 
-<!--
-    wip:
-
-    [中](./README.md) | [EN](./README.en_US.md)
--->
+[中文](./README.md) | [ENG](./README.en_US.md)
 
 嗨，我是 pan93412 😄 也可以直接稱呼我 pan。我是個來自台灣 🇹🇼 的程式開發者 👨🏻‍💻、本地化翻譯員 💬、UI/UX 設計師 👨🏻‍🎨，也是個學生 🤓。主要從事開源貢獻工作，也會在閒暇時參與軟體社群、協助解惑。
 
