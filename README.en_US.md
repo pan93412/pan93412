@@ -12,12 +12,12 @@ Hi, I am pan93412 😄 You can also call me “pan.” I am a programmer 👨�
 
 ## Links
 
-- GitHub redirector：<https://pan93.com>
+- GitHub redirector: <https://pan93.com>
 - Blog: <https://blog.pan93.com>
 
 ## Contact me
 
-- Telegram：[Click here to join my public group!](https://t.me/+lhsYySIpLtNmZjI1) 😂
+- Telegram: [Click here to join my public group!](https://t.me/+lhsYySIpLtNmZjI1) 😂
 - Discord: You can find me at some servers, or add me as a friend: `pan93412#7826`
   - It is better to tell me why sending me a friend request. I often got spammed, and I might delete your request accidentally 😢
 - Facebook: [Yi-Jyun Pan](https://facebook.com/pan93412TW)
