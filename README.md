@@ -17,11 +17,11 @@
 
 ## 聯絡方式
 
+- Twitter: [@byStarTW](https://twitter.com/byStarTW)
 - Telegram：經常在各大社群出沒，但如果沒發現的話 [可以透過這個連結前往 pan 的聯絡群組](https://t.me/+lhsYySIpLtNmZjI1) 😂
 - Discord: 經常在各大社群出沒，但如果沒發現的話可以加好友：`pan93412#7826`
   - 建議說明來意 orz 經常收到 spam 所以我可能會誤刪信件 QQ
 - Facebook: [Yi-Jyun Pan](https://facebook.com/pan93412TW)
-- Twitter: [@byStarTW](https://twitter.com/byStarTW)
 - Keybase: [pan93412](https://keybase.io/pan93412)
 - Email: [gh at pan93 dot com][mail]
 
