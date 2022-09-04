@@ -17,11 +17,11 @@ Hi, I am pan93412 😄 You can also call me “pan.” I am a programmer 👨�
 
 ## Contact me
 
-- Telegram: [Click here to join my public group!](https://t.me/+lhsYySIpLtNmZjI1) 😂
+- Twitter: [@byStarTW](https://twitter.com/byStarTW)
 - Discord: You can find me at some servers, or add me as a friend: `pan93412#7826`
   - It is better to tell me why sending me a friend request. I often got spammed, and I might delete your request accidentally 😢
+- Telegram: [Click here to join my public group!](https://t.me/+lhsYySIpLtNmZjI1) 😂
 - Facebook: [Yi-Jyun Pan](https://facebook.com/pan93412TW)
-- Twitter: [@byStarTW](https://twitter.com/byStarTW)
 - Keybase: [pan93412](https://keybase.io/pan93412)
 - Email: [gh at pan93 dot com][mail]
 
