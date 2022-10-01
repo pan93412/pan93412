@@ -2,6 +2,8 @@
 
 [中文](./README.md) | [English](./README.en_US.md)
 
+![Statistics](https://komarev.com/ghpvc/?username=pan93412&color=green)
+
 嗨，我是 pan93412 😄 也可以直接稱呼我 pan。我是個來自台灣 🇹🇼 的程式開發者 👨🏻‍💻、本地化翻譯員 💬、UI/UX 設計師 👨🏻‍🎨，也是個學生 🤓。主要從事開源貢獻工作，也會在閒暇時參與軟體社群、協助解惑。
 
 **程式部分**：我主要是寫 Rust、TypeScript、Python 以及一些 scripts (POSIX sh, fish, etc.)。算是個雜食型工程師 😂 知名專案可以參考 Pinned Repositories。
