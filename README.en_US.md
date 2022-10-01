@@ -2,6 +2,8 @@
 
 [中文](./README.md) | [English](./README.en_US.md)
 
+![Statistics](https://komarev.com/ghpvc/?username=pan93412&color=green)
+
 Hi, I am pan93412 😄 You can also call me “pan.” I am a programmer 👨🏻‍💻, localization translator 💬, UI/UX designer 👨🏻‍🎨, and a student 🤓 from Taiwan 🇹🇼. I primarily work on open-source software (OSS) contribution; besides, I often participate OSS community and answer questions in my free time.
 
 **Programming**: I code in Rust, TypeScript, Python, and some scripting language (POSIX sh, fish, etc.) mainly. I feel myself like an engineer that always works on random stuff 😂. For my popular projects, refer to Pinned Repositories.
