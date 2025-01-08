@@ -4,6 +4,6 @@ GitHub is my primary platform for sharing my work. I have pinned some projects t
 
 For more details, visit my [homepage 🏠](https://pan93.com)[^1].
 
-Statistics of this README: <img src="https://komarev.com/ghpvc/?username=pan93412&color=green" alt="Stats">
+<img src="https://komarev.com/ghpvc/?username=pan93412&color=green" alt="Stats">
 
 [^1]: 中文版參見 <https://pan93.com/index.zh-TW.html>。
