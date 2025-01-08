@@ -1,7 +1,7 @@
-# ![pan93412, a developer, translator and a UI/UX designer from 🇹🇼](components/Header/Main.svg)
+I am a backend intern at [Zeabur](https://github.com/zeabur) and an undergraduate based in Taiwan 🇹🇼. I design, translate, and occasionally contribute to open-source software (OSS).
 
-<div align="center">
-  <a href="https://pan93.com">個人介紹 | Introduction</a>
-  <p></p>
-  <img src="https://komarev.com/ghpvc/?username=pan93412&color=green" alt="Stats">
-</div>
+GitHub is my primary platform for sharing my work. I have pinned some projects that I am proud of, and you can find more in my repositories and my teams.
+
+For more details, visit my [homepage 🏠](https://pan93.com)[^1].
+
+[^1]: 中文版參見 <https://pan93.com/index.zh-TW.html>。
